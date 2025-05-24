@@ -1,6 +1,3 @@
-# fplas-2025
-FPLAS platform for 情報化社会と技術 class on May 2025
-
 ## Flutter Programmaing Assistant System with Docker
 
 1. ⚙️ [About the System](#1-about-the-system) 
