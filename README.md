@@ -96,11 +96,7 @@ To see the source code's output, click **Run** button.
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page7.png" alt="flutter" width="800" />
 </p>
 
-<p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page8.png" alt="flutter" width="800" />
-</p>
-
-- If you see **No Difference Found**, your **source code** is matched with the **Expected result**.
+- Then, you will see the **Output** of your **source code**.
 <!-- Check your latest source code **dart** file for each exercise under Desktop/Flutter_CMP_Basic. -->
 
 <p align="justify"> 
