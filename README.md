@@ -102,12 +102,11 @@ To see the source code's output, click **Run** button.
 ## 5. Answer File Submission
 > After finished exercises, student need to submit **answer files** to **Moodle**.
 >
-> The files are located under **Desktop/results/Flutter_CMP_Basic** directory with the following format
-- **studentID_Flutter_CMP_Basic_p1.dart** (e.g, 51D27703_Flutter_CMP_Basic_p1.dart).
+> The files are located under **Desktop/results/Flutter_CWP_Basic** directory with the following format
+- **studentID_Flutter_CWP_Basic_p1.dart** (e.g, 51D27703_Flutter_CMP_Basic_p1.dart).
 
-<!-- - ```C:/.../Desktop/results/Flutter_CMP_Basic/studentID_Flutter_CMP_Basic_p1.dart```  at **Windows**
-- ```cd Deskop/results/Flutter_CMP_Basic```  at **Linux** -->
-<!-- - ```cd Desktop/results/Flutter_CMP_Basic```  at **MacOS** -->
+- ```C:/.../Desktop/results/Flutter_CWP_Basic/51D27703_Flutter_CWP_Basic_p1.dart```  at **Windows**
+- ```cd Deskop/results/Flutter_CWP_Basic/51D27703_Flutter_CWP_Basic_p1.dart```  at **Linux**
 
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
