@@ -6,11 +6,6 @@
 	- <a href="https://github.com/soethandara/fplas-2025/wiki/Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a>
 	- <a href="https://github.com/soethandara/fplas-2025/wiki/Linux-(Ubuntu)" style="font-size: 0.1px; color: #FF0000;">Linux (Ubuntu)</a>
 4. 📜 [About Exercises](#4-about-exercises)
-	- [Exercise-1](#exercise-1)
-	- [Exercise-2](#exercise-2)
-	- [Exercise-3](#exercise-3)
- 	- [Exercise-4](#exercise-4)
-  	- [Exercise-5](#exercise-5)
 6. 📑 [Answer File Submission](#5-answer-file-submission) 
 7. 📝 [System Usage Feedback ](#6-system-usage-feedback)
 
@@ -103,27 +98,9 @@ To see the source code's output, click **Run** button.
 </p>
 
 > [!CAUTION]
-> It will display error image if you run with Empty **Cource Code**. 
+> It will display **error image** if you run with **Empty Source Code**. 
 
 <img width="800" alt="setPort" src="https://github.com/user-attachments/assets/457040f3-244e-469b-9de5-c59c07e36495">
-
-<a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
-<hr style="border-top: 2px solid #333;">
-
-### Exercise-1 
-![exercise1](https://github.com/user-attachments/assets/a190baea-b80c-4e3e-82b1-cebdb10fee81)
-
-### Exercise-2
-![exercise2](https://github.com/user-attachments/assets/d8e77b66-1ad5-44ef-b8f6-de8e9afd497d)
-
-### Exercise-3
-![exercise3](https://github.com/user-attachments/assets/9d772473-1a65-4033-8d88-e97553285e81)
-
-### Exercise-4
-![exercise4](https://github.com/user-attachments/assets/8c4b1ad1-0db1-4dcf-8c4d-e294c01a6878)
-
-### Exercise-5
-![exercise5](https://github.com/user-attachments/assets/83a080b9-2abf-4edb-9ee1-6f5c73f5d8ea)
 
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
