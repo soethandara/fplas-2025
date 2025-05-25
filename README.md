@@ -57,8 +57,12 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 </p>
 
 - Choose **Exercise for Flutter Programming**.
-<p align="justify"> 
+<!-- <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page3.png" alt="flutter" width="800" />
+</p> -->
+
+<p align="justify"> 
+  <img width="1601" alt="Image" src="https://github.com/user-attachments/assets/694619ca-0f37-4a64-866c-694abcdaf727" />
 </p>
 
 - Choose **Basic Grammar**. Then, you will see **5** exercises. 
