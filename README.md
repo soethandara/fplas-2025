@@ -82,9 +82,9 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5-1.png" alt="flutter" width="800" />
 </p> -->
 
-- **Choose** "exercise1". The left side displays **Output in sample source code**, **Expected result** and **Modification guidance**. The right side displays **Source Code editor**. 
+- **Choose** "exercise1". The left side displays **Instruction and Example Output**. The right side displays **Source Code Editor**. 
 
-- Read the **Modification guidance** and modify the **source code** as same as the **Expected result**.
+- Read the **Instruction** and write the **source code** as the **Example Output**.
 To see the source code's output, click **Run** button.
 
 <p align="justify"> 
@@ -95,8 +95,6 @@ To see the source code's output, click **Run** button.
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page7.png" alt="flutter" width="800" />
 </p>
-
-- Click **OK** to see the result.
 
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page8.png" alt="flutter" width="800" />
