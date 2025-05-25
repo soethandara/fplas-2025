@@ -62,24 +62,19 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 </p> -->
 
 <p align="justify"> 
-  <img width="1601" alt="Image" src="https://github.com/user-attachments/assets/694619ca-0f37-4a64-866c-694abcdaf727" />
+  <img width="1158" alt="Image" src="https://github.com/user-attachments/assets/49a3d4e5-827d-4713-a253-e241d967081a" />
 </p>
 
 - Choose **Basic Grammar**. Then, you will see **5** exercises. 
 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page4.png" alt="flutter" width="800" />
+  <img width="1744" alt="Image" src="https://github.com/user-attachments/assets/694fe616-4a4a-4e0a-be93-aa8f87b0e4ea" />
 </p>
 
  - **Before** finished the exercises, the **remark** will show **Not Started** status. **After** finished the exercises, the **remark** will change to the **Completed** status.
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5.png" alt="flutter" width="800" />
+  <img width="1744" alt="Image" src="https://github.com/user-attachments/assets/c469d2ce-2928-4c8a-a0fc-55dc33764e30" />
 </p> 
-
-<!-- - **After** finished the exercises, the **remark** will change to the **Completed** status.
-<p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5-1.png" alt="flutter" width="800" />
-</p> -->
 
 - **Choose** "exercise1". The left side displays **Instruction and Example Output**. The right side displays **Source Code Editor**. 
 
@@ -87,18 +82,18 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 To see the source code's output, click **Run** button.
 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page6.png" alt="flutter" width="800" />
+ <img width="2172" alt="Image" src="https://github.com/user-attachments/assets/54765959-afca-47ca-be9e-2b80c3d8cb38" />
 </p>
 
 - **Loading icon** will show during the source code running. It will take a few second to show the result.
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page7.png" alt="flutter" width="800" />
+  <img width="2154" alt="Image" src="https://github.com/user-attachments/assets/e2cc2d8c-153c-4432-919a-2144ef0b306a" />
 </p>
 
 - Then, you will see the **Output** of your **source code**.
 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page9.png" alt="flutter" width="800" />
+  <img width="2140" alt="Image" src="https://github.com/user-attachments/assets/e5ee5d3a-239f-4aee-9c7f-33565c69b94d" />
 </p>
 
 > [!CAUTION]
