@@ -14,15 +14,10 @@
 ## 1. About the System 
 <p align="justify"> 
 Flutter Programming Learning Assistant System includes frontend, backend and webserver. 
-<!-- <a href="https://github.com/user-attachments/files/18164814/Flutter.pdf" style="font-size: 0.1px; color: #FF0000;"> Flutter説明 </a> -->
-
-<!-- You can see the details of the system user web pages step by step in the link below.
-<a href="https://github.com/lynnhtetaung/fplas-2024/wiki/2.-FPLAS-System--Detail" style="font-size: 0.1px; color: #FF0000;">Details </a> -->
-
 </p>
 
 <p align="center">
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="800" />
+  <img width="1733" alt="Image" src="https://github.com/user-attachments/assets/cebbb27e-5be5-4846-814a-4b209e3f6853" />
 </p>
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 
