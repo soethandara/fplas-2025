@@ -72,12 +72,12 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page4.png" alt="flutter" width="800" />
 </p>
 
-<!-- - **Before** finished the exercises, the **remark** will show **Not Started** status. 
+ - **Before** finished the exercises, the **remark** will show **Not Started** status. **After** finished the exercises, the **remark** will change to the **Completed** status.
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5.png" alt="flutter" width="800" />
 </p> 
 
-- **After** finished the exercises, the **remark** will change to the **Completed** status.
+<!-- - **After** finished the exercises, the **remark** will change to the **Completed** status.
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5-1.png" alt="flutter" width="800" />
 </p> -->
