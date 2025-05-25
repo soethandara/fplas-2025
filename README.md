@@ -97,20 +97,13 @@ To see the source code's output, click **Run** button.
 </p>
 
 - Then, you will see the **Output** of your **source code**.
-<!-- Check your latest source code **dart** file for each exercise under Desktop/Flutter_CMP_Basic. -->
 
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page9.png" alt="flutter" width="800" />
 </p>
 
-- If you see **Difference Found**, modify the **source code** again by referring to the **highlighted differences** in the output.
-
-<p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page10.png" alt="flutter" width="800" />
-</p>
-
 > [!CAUTION]
-> It will display error image if there is some **Error** in the source code. 
+> It will display error image if you run with Empty **Cource Code**. 
 
 <img width="800" alt="setPort" src="https://github.com/user-attachments/assets/457040f3-244e-469b-9de5-c59c07e36495">
 
