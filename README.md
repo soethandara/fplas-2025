@@ -52,7 +52,7 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 
 - Choose **Exercise for Flutter Programming**.
 <!-- <p align="justify"> 
-  <img width="1776" alt="Image" src="https://github.com/user-attachments/assets/aa452e1d-cbe6-4809-ba21-db938c52a933" />
+  <img width="1158" alt="Image" src="https://github.com/user-attachments/assets/27613c63-7b0d-4871-9c8c-0228c3f54b62" />
 </p> -->
 
 <p align="justify"> 
@@ -62,12 +62,12 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 - Choose **Basic Grammar**. Then, you will see **5** exercises. 
 
 <p align="justify"> 
-  <img width="1744" alt="Image" src="https://github.com/user-attachments/assets/694fe616-4a4a-4e0a-be93-aa8f87b0e4ea" />
+  <img width="1744" alt="Image" src="https://github.com/user-attachments/assets/8bdde861-00e9-41ff-b16a-7f53ec211426" />
 </p>
 
  - **Before** finished the exercises, the **remark** will show **Not Started** status. **After** finished the exercises, the **remark** will change to the **Completed** status.
 <p align="justify"> 
-  <img width="1744" alt="Image" src="https://github.com/user-attachments/assets/c469d2ce-2928-4c8a-a0fc-55dc33764e30" />
+  <img width="1744" alt="Image" src="https://github.com/user-attachments/assets/5a8a1591-d560-406d-bafe-20bdd7b3cbba" />
 </p> 
 
 - **Choose** "exercise1". The left side displays **Instruction and Example Output**. The right side displays **Source Code Editor**. 
@@ -76,18 +76,18 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 To see the source code's output, click **Run** button.
 
 <p align="justify"> 
- <img width="2172" alt="Image" src="https://github.com/user-attachments/assets/54765959-afca-47ca-be9e-2b80c3d8cb38" />
+ <img width="2172" alt="Image" src="https://github.com/user-attachments/assets/db410a5a-2525-474b-94ea-421e2b323ac4" />
 </p>
 
 - **Loading icon** will show during the source code running. It will take a few second to show the result.
 <p align="justify"> 
-  <img width="2154" alt="Image" src="https://github.com/user-attachments/assets/e2cc2d8c-153c-4432-919a-2144ef0b306a" />
+  <img width="2154" alt="Image" src="https://github.com/user-attachments/assets/a726c943-e081-431a-9229-22390472b24e" />
 </p>
 
 - Then, you will see the **Output** of your **source code**.
 
 <p align="justify"> 
-  <img width="2140" alt="Image" src="https://github.com/user-attachments/assets/e5ee5d3a-239f-4aee-9c7f-33565c69b94d" />
+  <img width="2140" alt="Image" src="https://github.com/user-attachments/assets/05c27deb-05a7-400f-a331-ff5805ace679" />
 </p>
 
 > [!CAUTION]
