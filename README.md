@@ -17,7 +17,7 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 </p>
 
 <p align="center">
-  <img width="1733" alt="Image" src="https://github.com/user-attachments/assets/e57edc12-bd38-4d16-b7dd-bd21d587aadc" />
+<img width="1733" alt="Image" src="https://github.com/user-attachments/assets/7b2e626d-764a-4913-aa28-f4b3d928591d" />
 </p>
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 
