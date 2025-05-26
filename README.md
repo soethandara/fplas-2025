@@ -47,7 +47,7 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 ## 4. About Exercises
 - Fill **studentID** and click "Go to Exercise" button. 
 <p align="justify"> 
-  <img width="1776" alt="Image" src="https://github.com/user-attachments/assets/3f42e1aa-1619-4769-91cd-8e85c74e6081" />
+  <img width="1776" alt="Image" src="https://github.com/user-attachments/assets/33547605-d518-40d9-bb55-5120bffa4d7a" />
 </p>
 
 - Choose **Exercise for Flutter Programming**.
