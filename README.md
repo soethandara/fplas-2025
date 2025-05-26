@@ -63,6 +63,7 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 </p>
 
  - **Before** finished the exercises, the **remark** will show **Not Started** status. **After** finished the exercises, the **remark** will change to the **Completed** status.
+
 <p align="justify"> 
   <img width="1744" alt="Image" src="https://github.com/user-attachments/assets/5a8a1591-d560-406d-bafe-20bdd7b3cbba" />
 </p> 
@@ -77,6 +78,7 @@ To see the source code's output, click **Run** button.
 </p>
 
 - **Loading icon** will show during the source code running. It will take a few second to show the result.
+  
 <p align="justify"> 
   <img width="2154" alt="Image" src="https://github.com/user-attachments/assets/a726c943-e081-431a-9229-22390472b24e" />
 </p>
