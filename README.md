@@ -36,9 +36,10 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 <hr style="border-top: 2px solid #333;">
 
 ## 3. Procedure according to OS
-- Depending on the **Operating System (OS)**, the way is different. Therefore, please follow the procedure according to the correspondence **OS**.
-- > [!CAUTION]
+> [!CAUTION]
 > Make sure **Docker Desktop** is running before proceeding with this step.
+
+- Depending on the **Operating System (OS)**, the way is different. Therefore, please follow the procedure according to the correspondence **OS**.
 
 	### <a href="https://github.com/soethandara/fplas-2025/wiki/Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a> <hr style="border-top: 2px solid #333;">
 	### <a href="https://github.com/soethandara/fplas-2025/wiki/Linux-(Ubuntu)" style="font-size: 0.1px; color: #FF0000;">Linux (Ubuntu)</a> <hr style="border-top: 2px solid #333;">
