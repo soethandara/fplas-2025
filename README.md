@@ -94,7 +94,7 @@ To see the source code's output, click **Run** button.
 </p>
 
 > [!CAUTION]
-> It will display **error image** if you run with **Empty Source Code**. 
+> It will display **error image** if you run with **Empty Source Code** or your source code is **incorrect**. 
 
 <img width="800" alt="setPort" src="https://github.com/user-attachments/assets/457040f3-244e-469b-9de5-c59c07e36495">
 
