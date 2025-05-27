@@ -37,7 +37,7 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 
 ## 3. Procedure according to OS
 > [!CAUTION]
-> Make sure **Docker Desktop** is running before proceeding with this step.
+> Before proceeding with this step, make sure **Docker Desktop** is running on your PC.
 
 - Depending on the **Operating System (OS)**, the way is different. Therefore, please follow the procedure according to the correspondence **OS**.
 
